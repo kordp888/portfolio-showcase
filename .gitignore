@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!VERIFICATION.md
+!images/
+images/*
+!images/onda.png
+!images/dasion5060.png
